@@ -40,6 +40,8 @@ and
 
 implement the tests in specs/dateUtilSpec.js
 
+Note to see if your tests pass, please type in "grunt unit"
+
 
 6. For any help unit tests please refer to
 ----------
