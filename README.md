@@ -2,6 +2,7 @@
 1. Please download node js
 ----------
 
+see https://nodejs.org/
 To verify its installed open a command prompt and type node -v
 It should return something similar to v0.12.2
 
